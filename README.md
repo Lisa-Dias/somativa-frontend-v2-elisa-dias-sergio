@@ -11,9 +11,12 @@ O projeto foi organizado seguindo boas práticas de mercado:
 /
 ├── index.html
 └── src/
-    ├── styles/  (Estilos da página)
-    ├── scripts/ (Lógica de interação)
-    └── img/  (Ativos visuais)
+    ├── styles
+            |__styles.css
+    ├── scripts
+            |__script.js
+    └── img
+            |__ cafe.png
 
 ## 🚀 Funcionalidades Implementadas
 * **Interatividade Visual:** Elementos para quando o usuário passar o mouse irá ver as recomendações do dia.
